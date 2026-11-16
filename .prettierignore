@@ -1,0 +1,5 @@
+node_modules
+dist
+backend/storage
+frontend/public/vendor
+package-lock.json
